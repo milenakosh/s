@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.title {
+
+    margin-bottom: 45px;
+    margin: 0;
+    font-size: 250px;
+    font-weight: 300px;
+    line-height: 1;
+}
+
+
+.header__tex {
+    color: rgb(255, 6, 6);
+    font-size: 320px;
+    font-weight: 300;
+    line-height: 155%;
+    margin-top: 0;
+    margin-bottom: 60px;
+    width: 10px;
+    top: 10%;
+    right: 100px;
+}
+
+.wrapper {
+    min-height: 100%;
+}
+
+body {
+    background-image: url(/css/img/1614855080_172-p-foni-na-voennuyu-temu-191.jpg);
+}
+
+
+
+
+.calebration_img {
+    height: 10%;
+    width: 10%;
+    object-fit: cover;
+
+
+
+}
+
+.rty {
+    background-color: darkolivegreen;
+    color: aliceblue;
+    padding: 10px 20px;
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    transform: translate(50% 50%);
+}
